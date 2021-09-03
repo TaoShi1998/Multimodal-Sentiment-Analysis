@@ -4,9 +4,6 @@ Multimodal Emotion Recognition has become an essential research topic in Artific
 
 The goal of this project is to utilize different modalities(text, audio and visual) in a conversational video for emotion recognition.
 
-In this project, I designed Multimodal Conversational Recurrent Neural Network(MC-RNN) based on Gated Recurrent Unit(GRU) and Global Attention to accurately predict the sentiment label and emotion label of every utterance in a conversational video.
-
-
 ## Related Dataset
 The project uses Multimodal EmotionLines Dataset(MELD), which is a multimodal dataset extended from the EmotionLines dataset. EmotionLines dataset contains dialogues from the popular American TV sitcom *Friends*, where each dialogue contains utterances from multiple speakers. MELD not only includes textual dialogues available in EmotionLines, but also their corresponding visual and audio features.
 
@@ -14,6 +11,7 @@ Please visit https://github.com/declare-lab/MELD for more information about MELD
 
 
 ## Model Architecture
+In this project, I designed Multimodal Conversational Recurrent Neural Network(MC-RNN) based on Gated Recurrent Unit(GRU) and Global Attention to accurately predict the sentiment label and emotion label of every utterance in a conversational video.
 <img width="638" alt="截屏2021-09-03 下午4 31 15" src="https://user-images.githubusercontent.com/37060800/131975662-04154bea-3898-4a81-925e-2ba12bb5ed4d.png">
 
 
