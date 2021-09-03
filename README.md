@@ -15,6 +15,8 @@ In this project, I designed Multimodal Conversational Recurrent Neural Network(M
 
 <img width="638" alt="截屏2021-09-03 下午4 31 15" src="https://user-images.githubusercontent.com/37060800/131975662-04154bea-3898-4a81-925e-2ba12bb5ed4d.png">
 
+## Results
+
 
 ## Example Dialgue and its Predictions Using MC-RNN
 <img width="786" alt="Example Dialogue" src="https://user-images.githubusercontent.com/37060800/131972610-f5f4e067-d8d5-4c2b-aa0c-373ac1305b83.png">
