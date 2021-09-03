@@ -2,14 +2,23 @@
 ## Overview
 Multimodal Emotion Recognition has become an essential research topic in Artificial Intelligence due to its potential applications in various challenging tasks, such as intelligent human-computer interaction, user behavior understanding and others. 
 
-The goal of this project is to utilize different modalities(text, audio and facial expressions) in a conversational video for emotion recognition.
+The goal of this project is to utilize different modalities(text, audio and visual) in a conversational video for emotion recognition.
 
 In this project, I designed Multimodal Conversational Recurrent Neural Network(MC-RNN) based on Gated Recurrent Unit(GRU) and Global Attention to accurately predict the sentiment label and emotion label of every utterance in a conversational video.
+
 
 ## Related Dataset
 The project uses Multimodal EmotionLines Dataset(MELD), which is a multimodal dataset extended from the EmotionLines dataset. EmotionLines dataset contains dialogues from the popular American TV sitcom *Friends*, where each dialogue contains utterances from multiple speakers. MELD not only includes textual dialogues available in EmotionLines, but also their corresponding visual and audio features.
 
 Please visit https://github.com/declare-lab/MELD for more information about MELD.
+
+
+## Model Architecture
+<img width="638" alt="截屏2021-09-03 下午4 31 15" src="https://user-images.githubusercontent.com/37060800/131975662-04154bea-3898-4a81-925e-2ba12bb5ed4d.png">
+
+
+## Results
+<img width="765" alt="截屏2021-09-03 下午4 29 43" src="https://user-images.githubusercontent.com/37060800/131975562-cf6a4306-f64b-41e5-843f-84e5f44cba4d.png">
 
 
 ## Example Dialgue and its Predictions Using MC-RNN
