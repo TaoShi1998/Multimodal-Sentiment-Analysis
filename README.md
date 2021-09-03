@@ -17,10 +17,6 @@ Please visit https://github.com/declare-lab/MELD for more information about MELD
 <img width="638" alt="截屏2021-09-03 下午4 31 15" src="https://user-images.githubusercontent.com/37060800/131975662-04154bea-3898-4a81-925e-2ba12bb5ed4d.png">
 
 
-## Results
-<img width="765" alt="截屏2021-09-03 下午4 29 43" src="https://user-images.githubusercontent.com/37060800/131975562-cf6a4306-f64b-41e5-843f-84e5f44cba4d.png">
-
-
 ## Example Dialgue and its Predictions Using MC-RNN
 <img width="786" alt="Example Dialogue" src="https://user-images.githubusercontent.com/37060800/131972610-f5f4e067-d8d5-4c2b-aa0c-373ac1305b83.png">
  <img width="690" alt="截屏2021-09-03 下午4 03 36" src="https://user-images.githubusercontent.com/37060800/131972856-1efcaeab-98a5-4286-8355-c4b1f24c2ebe.png">
