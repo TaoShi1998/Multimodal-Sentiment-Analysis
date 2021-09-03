@@ -11,7 +11,7 @@ Please visit https://github.com/declare-lab/MELD for more information about MELD
 
 
 ## Model Architecture
-In this project, I designed Multimodal Conversational Recurrent Neural Network(MC-RNN) based on Gated Recurrent Unit(GRU) and Global Attention to accurately predict the sentiment label and emotion label of every utterance in a conversational video.
+In this project, I designed Multimodal Conversational Recurrent Neural Network(MC-RNN) based on Gated Recurrent Unit(GRU) and Global Attention to model context in conversations, so as to accurately predict the sentiment label and emotion label of every utterance in a conversational video.
 <img width="638" alt="截屏2021-09-03 下午4 31 15" src="https://user-images.githubusercontent.com/37060800/131975662-04154bea-3898-4a81-925e-2ba12bb5ed4d.png">
 
 
