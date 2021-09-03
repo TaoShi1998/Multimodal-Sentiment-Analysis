@@ -2,7 +2,7 @@
 ## Overview
 Multimodal Sentiment Analysis has become an essential research topic in Artificial Intelligence due to its potential applications in various challenging tasks, such as intelligent human-computer interaction, user behavior understanding and others. 
 
-The goal of this project is to effectively utilize different modalities(text, audio and visual) in a conversational video for emotion recognition.
+The goal of this project is to utilize different modalities(text, audio and visual) in a conversational video for emotion recognition.
 
 ## Related Dataset
 The project uses Multimodal EmotionLines Dataset(MELD), which is a multimodal dataset extended from the EmotionLines dataset. EmotionLines dataset contains dialogues from the popular American TV sitcom *Friends*, where each dialogue contains utterances from multiple speakers. MELD not only includes textual dialogues available in EmotionLines, but also their corresponding visual and audio features.
